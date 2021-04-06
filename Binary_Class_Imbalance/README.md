@@ -1,6 +1,7 @@
 # Predictive Maintenance 4.0 : Handling a Binary Class Imbalanced dataset using Focal Loss
 
-Article link:
+# Own Article link:
+
 https://www.linkedin.com/pulse/predictive-maintenance-40-handling-binary-class-dataset-pathak/?trackingId=Ec7U9N9Ohoi3YijeqJly1A%3D%3D
 
 
