@@ -1,4 +1,8 @@
-# Machine Learning Model build up for a Binary Classification containing Machine Failure dataset
+# Predictive Maintenance 4.0 : Handling a Binary Class Imbalanced dataset using Focal Loss
+
+Article link:
+https://www.linkedin.com/pulse/predictive-maintenance-40-handling-binary-class-dataset-pathak/?trackingId=Ec7U9N9Ohoi3YijeqJly1A%3D%3D
+
 
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Machine_Failure/Pics/predictive_model.jpg?raw=true" />
